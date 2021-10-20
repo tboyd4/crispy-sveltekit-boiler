@@ -16,3 +16,10 @@
 - Unless you want a lot of frustration, make sure you are using node version 14.13.1
 - I promise, no other node version will do. Go download NVM and use 14.13.1
 
+### Important Documentation
+
+- [TailWindCSS](https://tailwindcss.com/docs)
+- [SvelteKit](https://kit.svelte.dev/docs)
+- [Svelte](https://svelte.dev/docs)
+- [TypeScript](https://www.typescriptlang.org/docs/)
+
