@@ -26,3 +26,5 @@
 ### Netlify Deploy and Build Settings
 
 ![](static/images/netlify_deploy.png)
+
+![](static/images/netlify_env.png)
