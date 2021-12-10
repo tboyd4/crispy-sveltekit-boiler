@@ -16,15 +16,15 @@
     "forceConsistentCasingInFileNames": true,
     "baseUrl": ".",
     "allowJs": true,
-    "checkJs": true,
-    "paths": {
-      "$lib": [
-        "src/lib"
-      ],
-      "$lib/*": [
-        "src/lib/*"
-      ]
-    }
+    "checkJs": true
+    //    "paths": {
+    //      "$lib": [
+    //        "src/lib"
+    //      ],
+    //      "$lib/*": [
+    //        "src/lib/*"
+    //      ]
+    //    }
   },
   "include": [
     "src/**/*.d.ts",
