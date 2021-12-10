@@ -5,7 +5,8 @@ const config = {
 	preprocess: preprocess(),
 
 	kit: {
-		target: '#svelte'
+		target: '#svelte',
+		lib: 'src'
 	}
 };
 
