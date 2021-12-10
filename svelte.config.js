@@ -6,7 +6,9 @@ const config = {
 	kit: {
 		adapter: vercel(),
 		target: '#svelte',
-		lib: 'src'
+		files: {
+			lib: 'src'
+		}
 	}
 };
 
