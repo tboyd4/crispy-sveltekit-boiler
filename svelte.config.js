@@ -5,7 +5,6 @@ const config = {
 	preprocess: preprocess(),
 	kit: {
 		adapter: vercel(),
-		target: '#svelte',
 		vite: {
 			define: {
 				global: {}
