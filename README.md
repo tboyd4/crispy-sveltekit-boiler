@@ -7,14 +7,17 @@
 - Prettier
 - ESLint
 - TailWindCSS - Utilizing Just In Time and Purge For Small CSS Files)
+- Hygraph Headless CMS, powered by GraphQL
 
 ## Installation Instructions
 
 - Clone The Repo
 - Install The Repo
 - Bing Bang Boom, You Gots a Project
-- Unless you want a lot of frustration, make sure you are using node version 14.13.1
-- I promise, no other node version will do. Go download NVM and use 14.13.1
+
+## Important ENVs To Add
+
+- add `VITE_HYGRAPH_URL`, set to your Public Content API Url From Hygraph
 
 ### Important Documentation
 
@@ -22,3 +25,4 @@
 - [SvelteKit](https://kit.svelte.dev/docs)
 - [Svelte](https://svelte.dev/docs)
 - [TypeScript](https://www.typescriptlang.org/docs/)
+- [Hygraph](https://hygraph.com/docs)
