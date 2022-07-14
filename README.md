@@ -22,9 +22,3 @@
 - [SvelteKit](https://kit.svelte.dev/docs)
 - [Svelte](https://svelte.dev/docs)
 - [TypeScript](https://www.typescriptlang.org/docs/)
-
-### Netlify Deploy and Build Settings
-
-![](static/images/netlify_deploy.png)
-
-![](static/images/netlify_env.png)
