@@ -1,7 +1,7 @@
 <script lang="ts">
+	import type { Post } from '$lib/interfaces/post.interface';
 	import Seo from '$lib/components/Seo/Seo.svelte';
 	import { onMount } from 'svelte';
-	import type { Post } from '$lib/interfaces/post.interface';
 	import { Firework } from 'svelte-loading-spinners';
 	import { postStore } from '$lib/stores/post.store';
 	import { getPosts } from '$lib/services/hygraph.service';
